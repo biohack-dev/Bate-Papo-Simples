@@ -1,0 +1,6 @@
+frmStart = 0, 0, 0, 0, C, 25, 25, 740, 641, C
+ModChat = 0, 0, 0, 0, C
+frmChat = 0, 0, 0, 0, C, 25, 25, 740, 641, C
+ModGeneral = 0, 0, 0, 0, C
+ModServer = 0, 0, 0, 0, C
+ModProtocol = 0, 0, 0, 0, C
